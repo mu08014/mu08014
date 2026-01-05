@@ -10,7 +10,7 @@ Affiliated Researcher at ETRI@[Quantum Sensor Lab](https://www.etri.re.kr/kor/su
 
 2020.03 ~ 2026.02 : Kyunghee University, Yong-in, Korea  
   - B.S. in Applied Physics & B.S. in Software Convergence (Double major)
-  - GPA : 4.23 / 4.5
+  - GPA : 4.21 / 4.5  (major 4.3 / 4.5)
 
 2026.03 ~ : KAIST  
   - Integrated M.S./Ph.D. in Graduate School of Quantum Science and Technology
